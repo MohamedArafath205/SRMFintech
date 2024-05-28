@@ -2,9 +2,9 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, LSTM, Dropout
-import tensorflow as tf
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score
 import matplotlib.pyplot as plt
 
 # Load and preprocess data
@@ -22,27 +22,20 @@ X = data.drop("Fin_Cat", axis=1)
 y = data["Fin_Cat"]
 
 # Split and scale data
-from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
 scaler = StandardScaler()
 X_train_scaled = scaler.fit_transform(X_train)
 X_test_scaled = scaler.transform(X_test)
 
-X_train_reshaped = X_train_scaled.reshape(X_train_scaled.shape[0], 1, X_train_scaled.shape[1])
-X_test_reshaped = X_test_scaled.reshape(X_test_scaled.shape[0], 1, X_test_scaled.shape[1])
+# Build and train logistic regression model
+logreg_model = LogisticRegression()
+logreg_model.fit(X_train_scaled, y_train)
 
-# Build and train model
-model = Sequential()
-model.add(LSTM(units=64, input_shape=(X_train_reshaped.shape[1], X_train_reshaped.shape[2]), return_sequences=True))
-model.add(Dropout(0.5))
-model.add(LSTM(units=32))
-model.add(Dropout(0.5))
-model.add(Dense(units=1, activation='sigmoid'))
-
-model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
-model.fit(X_train_reshaped, y_train, epochs=10, batch_size=32, validation_split=0.1, verbose=1)
-loss, accuracy = model.evaluate(X_test_reshaped, y_test)
+# Evaluate model
+y_pred = logreg_model.predict(X_test_scaled)
+accuracy = accuracy_score(y_test, y_pred)
+print("Logistic Regression Accuracy:", accuracy)
 
 # Streamlit interface
 st.title("Credit Score Improvement Model")
@@ -89,10 +82,10 @@ input_data = np.array([
     1 if marital_status == 'Married' else 0,
     {'Apartment': 1, 'Condo': 2, 'House': 3}[properties],
     {'Self Employed': 1, 'Employee': 2, 'Entrepreneur': 3}[emp_status]
-]).reshape(1, 1, -1)
+]).reshape(1, -1)
 
-input_data_scaled = scaler.transform(input_data.reshape(1, -1))
-predicted_outcome_rnn = model.predict(input_data_scaled.reshape(1, 1, -1))
+input_data_scaled = scaler.transform(input_data)
+predicted_outcome_logreg = logreg_model.predict(input_data_scaled)
 
 def display_insights(predicted_label):
     if predicted_label == 0:
@@ -114,24 +107,18 @@ def display_insights(predicted_label):
     else:
         st.write("✅ *Good Going!* ✅")
         st.write("* Consider applying for a credit builder loan or a secured loan to demonstrate responsible borrowing behavior and improve your credit mix.")
-        st.write("* Monitor your credit utilization ratio and aim to keep it below 30% by paying down balances or requesting credit limit increases.")
-        st.write("* Refrain from closing old credit accounts, as this can shorten your credit history and lower your score.")
-        st.write("* Regularly review your credit report for any signs of identity theft or fraud, and report any suspicious activity immediately.")
-        st.write("* Work on building a positive payment history by consistently making on-time payments and keeping accounts in good standing.")
-        st.write("* Considering that you’re in the sweet spot, consider investing more and maintain your current situation in the future too.")
 
 if st.sidebar.button("Predict Credit Score Level"):
-    display_insights(predicted_outcome_rnn[0][0])
+    display_insights(predicted_outcome_logreg[0])
 
-st.write("## Feature Significance", className="debug-info")
+st.write("## Feature Significance")
 
-input_weights = model.layers[0].get_weights()[0]
-feature_importances_rnn = np.sum(np.abs(input_weights), axis=1)
-feature_names_rnn = X.columns
-indices_rnn = np.argsort(feature_importances_rnn)[::-1]
+input_weights = logreg_model.coef_[0]
+feature_names = X.columns
+indices = np.argsort(np.abs(input_weights))[::-1]
 
 plt.figure(figsize=(12, 8))
-plt.bar(range(len(feature_importances_rnn)), feature_importances_rnn[indices_rnn], align="center")
-plt.xticks(range(len(feature_importances_rnn)), feature_names_rnn[indices_rnn], rotation=45)
-plt.title("Feature Importances - Deep Learning Model")
+plt.bar(range(len(input_weights)), np.abs(input_weights[indices]), align="center")
+plt.xticks(range(len(input_weights)), feature_names[indices], rotation=45)
+plt.title("Feature Importances - Logistic Regression Model")
 st.pyplot(plt)
