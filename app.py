@@ -41,7 +41,7 @@ model.add(Dropout(0.5))
 model.add(Dense(units=1, activation='sigmoid'))
 
 model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
-model.fit(X_train_reshaped, y_train, epochs=50, batch_size=32, validation_split=0.1, verbose=1)
+model.fit(X_train_reshaped, y_train, epochs=10, batch_size=32, validation_split=0.1, verbose=1)
 loss, accuracy = model.evaluate(X_test_reshaped, y_test)
 
 # Streamlit interface
