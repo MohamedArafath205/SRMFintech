@@ -1,0 +1,2472 @@
+Age,Gender,Income,Expenses,Investments,Debt,Risk_tolerance,Insurance,Credit_Score,Demographic,Family_size,Marital_status,Properties,Fin_Cat,Emp_status
+35,Male,60000,2100,5000,2000,3,Yes,720,Urban,3,Married,House,1,Entrepreneur
+45,Female,80000,2700,10000,3000,4,Yes,750,Suburban,4,Married,Apartment,2,Employee
+28,Male,40000,5000,2000,1000,2,No,680,Rural,2,Single,,0,Self Employed
+38,Female,70000,12000,8000,2500,3,Yes,740,Urban,3,Married,House,1,Entrepreneur
+50,Male,90000,20000,12000,4000,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+32,Female,55000,8000,4000,1500,3,Yes,710,Urban,2,Single,,1,Self Employed
+41,Male,75000,13000,9000,2800,3,Yes,730,Suburban,3,Married,House,1,Entrepreneur
+29,Female,42000,5500,2500,1200,2,No,690,Rural,2,Single,,0,Self Employed
+55,Male,100000,25000,15000,5000,4,Yes,780,Suburban,4,Married,House,2,Employee
+34,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,Apartment,1,Self Employed
+39,Male,68000,14000,9500,3000,3,Yes,735,Urban,4,Married,House,1,Self Employed
+27,Female,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+43,Male,82000,16000,11000,3500,4,Yes,755,Suburban,4,Married,Condo,2,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+46,Male,85000,17000,11500,3200,4,Yes,765,Suburban,4,Married,House,2,Entrepreneur
+36,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,Apartment,1,Employee
+47,Male,88000,18000,12500,3500,4,Yes,770,Suburban,4,Married,House,2,Entrepreneur
+33,Female,60000,10000,5000,2000,3,Yes,720,Urban,3,Married,Condo,1,Self Employed
+30,Male,45000,6000,3000,1400,2,No,680,Rural,2,Single,,0,Self Employed
+42,Female,78000,14000,9500,3000,3,Yes,740,Suburban,3,Married,House,1,Employee
+37,Male,66000,13000,8500,2600,3,Yes,725,Urban,4,Married,Apartment,1,Entrepreneur
+40,Female,70000,15000,10000,3200,3,Yes,735,Suburban,4,Married,House,2,Self Employed
+26,Male,40000,5000,2000,1000,2,No,670,Rural,2,Single,,0,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,Apartment,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+35,Male,60000,10000,5000,2000,3,Yes,720,Urban,3,Married,House,1,Self Employed
+45,Female,80000,15000,10000,3000,4,Yes,750,Suburban,4,Married,Apartment,2,Entrepreneur
+28,Male,40000,5000,2000,1000,2,No,680,Rural,2,Single,,0,Self Employed
+38,Female,70000,12000,8000,2500,3,Yes,740,Urban,3,Married,House,1,Employee
+50,Male,90000,20000,12000,4000,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+32,Female,55000,8000,4000,1500,3,Yes,710,Urban,2,Single,,1,Self Employed
+41,Male,75000,13000,9000,2800,3,Yes,730,Suburban,3,Married,House,1,Employee
+29,Female,42000,5500,2500,1200,2,No,690,Rural,2,Single,,0,Self Employed
+55,Male,100000,25000,15000,5000,4,Yes,780,Suburban,4,Married,House,2,Entrepreneur
+34,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,Apartment,1,Self Employed
+39,Male,68000,14000,9500,3000,3,Yes,735,Urban,4,Married,House,1,Employee
+27,Female,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+43,Male,82000,16000,11000,3500,4,Yes,755,Suburban,4,Married,Condo,2,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+46,Male,85000,17000,11500,3200,4,Yes,765,Suburban,4,Married,House,2,Self Employed
+36,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,Apartment,1,Self Employed
+47,Male,88000,18000,12500,3500,4,Yes,770,Suburban,4,Married,Condo,2,Entrepreneur
+33,Female,60000,10000,5000,2000,3,Yes,720,Urban,3,Married,Condo,1,Self Employed
+30,Male,45000,6000,3000,1400,2,No,680,Rural,2,Single,,0,Employee
+42,Female,78000,14000,9500,3000,3,Yes,740,Suburban,3,Married,House,1,Entrepreneur
+37,Male,66000,13000,8500,2600,3,Yes,725,Urban,4,Married,Apartment,1,Self Employed
+40,Female,70000,15000,10000,3200,3,Yes,735,Suburban,4,Married,House,2,Employee
+26,Male,40000,5000,2000,1000,2,No,670,Rural,2,Single,,0,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,House,0,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+29,Female,42000,5500,2500,1200,2,No,690,Rural,2,Single,,0,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+43,Male,82000,16000,11000,3500,4,Yes,755,Suburban,4,Married,Condo,2,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+26,Male,40000,5000,2000,1000,2,No,670,Rural,2,Single,,0,Self Employed
+33,Female,60000,10000,5000,2000,3,Yes,720,Urban,3,Married,Condo,1,Self Employed
+45,Female,80000,2700,10000,3000,4,Yes,750,Suburban,4,Married,Apartment,2,Employee
+46,Male,85000,17000,11500,3200,4,Yes,765,Suburban,4,Married,House,2,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+29,Female,42000,5500,2500,1200,2,No,690,Rural,2,Single,,0,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+39,Male,68000,14000,9500,3000,3,Yes,735,Urban,4,Married,House,1,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Entrepreneur
+29,Female,42000,5500,2500,1200,2,No,690,Rural,2,Single,,0,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+42,Female,78000,14000,9500,3000,3,Yes,740,Suburban,3,Married,House,1,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+32,Female,55000,8000,4000,1500,3,Yes,710,Urban,2,Single,,1,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+38,Female,70000,12000,8000,2500,3,Yes,740,Urban,3,Married,House,1,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+26,Male,40000,5000,2000,1000,2,No,670,Rural,2,Single,,0,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+35,Male,60000,10000,5000,2000,3,Yes,720,Urban,3,Married,House,1,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+43,Male,82000,16000,11000,3500,4,Yes,755,Suburban,4,Married,Condo,2,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+42,Female,78000,14000,9500,3000,3,Yes,740,Suburban,3,Married,House,1,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+28,Male,40000,5000,2000,1000,2,No,680,Rural,2,Single,,0,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+35,Male,60000,10000,5000,2000,3,Yes,720,Urban,3,Married,House,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+37,Male,66000,13000,8500,2600,3,Yes,725,Urban,4,Married,Apartment,1,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+30,Male,45000,6000,3000,1400,2,No,680,Rural,2,Single,,0,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+39,Male,68000,14000,9500,3000,3,Yes,735,Urban,4,Married,House,1,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+42,Female,78000,14000,9500,3000,3,Yes,740,Suburban,3,Married,House,1,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+46,Male,85000,17000,11500,3200,4,Yes,765,Suburban,4,Married,House,2,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+55,Male,100000,25000,15000,5000,4,Yes,780,Suburban,4,Married,House,2,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+42,Female,78000,14000,9500,3000,3,Yes,740,Suburban,3,Married,House,1,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+30,Male,45000,6000,3000,1400,2,No,680,Rural,2,Single,,0,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+45,Female,80000,15000,10000,3000,4,Yes,750,Suburban,4,Married,Apartment,2,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+36,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,Apartment,1,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+39,Male,68000,14000,9500,3000,3,Yes,735,Urban,4,Married,House,1,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+30,Male,45000,6000,3000,1400,2,No,680,Rural,2,Single,,0,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+50,Male,90000,20000,12000,4000,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,Apartment,1,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+55,Male,100000,25000,15000,5000,4,Yes,780,Suburban,4,Married,House,2,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+32,Female,55000,8000,4000,1500,3,Yes,710,Urban,2,Single,,1,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+42,Female,78000,14000,9500,3000,3,Yes,740,Suburban,3,Married,House,1,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+39,Male,68000,14000,9500,3000,3,Yes,735,Urban,4,Married,House,1,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+30,Male,45000,6000,3000,1400,2,No,680,Rural,2,Single,,0,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,Apartment,1,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+55,Male,100000,25000,15000,5000,4,Yes,780,Suburban,4,Married,House,2,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,Apartment,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+43,Male,82000,16000,11000,3500,4,Yes,755,Suburban,4,Married,Condo,2,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+55,Male,100000,25000,15000,5000,4,Yes,780,Suburban,4,Married,House,2,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+35,Male,60000,10000,5000,2000,3,Yes,720,Urban,3,Married,House,1,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+38,Female,70000,12000,8000,2500,3,Yes,740,Urban,3,Married,House,1,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+43,Male,82000,16000,11000,3500,4,Yes,755,Suburban,4,Married,Condo,2,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+34,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,Apartment,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Entrepreneur
+42,Female,78000,14000,9500,3000,3,Yes,740,Suburban,3,Married,House,1,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+28,Male,40000,5000,2000,1000,2,No,680,Rural,2,Single,,0,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+32,Female,55000,8000,4000,1500,3,Yes,710,Urban,2,Single,,1,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+43,Male,82000,16000,11000,3500,4,Yes,755,Suburban,4,Married,Condo,2,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+36,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,Apartment,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+43,Male,82000,16000,11000,3500,4,Yes,755,Suburban,4,Married,Condo,2,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+43,Male,82000,16000,11000,3500,4,Yes,755,Suburban,4,Married,Condo,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+50,Male,90000,20000,12000,4000,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+43,Male,82000,16000,11000,3500,4,Yes,755,Suburban,4,Married,Condo,2,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+45,Female,80000,15000,10000,3000,4,Yes,750,Suburban,4,Married,Apartment,2,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+50,Male,90000,20000,12000,4000,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+50,Male,90000,20000,12000,4000,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+32,Female,55000,8000,4000,1500,3,Yes,710,Urban,2,Single,,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+29,Female,42000,5500,2500,1200,2,No,690,Rural,2,Single,,0,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+38,Female,70000,12000,8000,2500,3,Yes,740,Urban,3,Married,House,1,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+47,Male,88000,18000,12500,3500,4,Yes,770,Suburban,4,Married,House,2,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Entrepreneur
+45,Female,80000,15000,10000,3000,4,Yes,750,Suburban,4,Married,Apartment,2,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+32,Female,55000,8000,4000,1500,3,Yes,710,Urban,2,Single,,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+33,Female,60000,10000,5000,2000,3,Yes,720,Urban,3,Married,Condo,1,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+50,Male,90000,20000,12000,4000,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+39,Male,68000,14000,9500,3000,3,Yes,735,Urban,4,Married,House,1,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+42,Female,78000,14000,9500,3000,3,Yes,740,Suburban,3,Married,House,1,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+35,Male,60000,2100,5000,2000,3,Yes,720,Urban,3,Married,House,1,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+32,Female,55000,8000,4000,1500,3,Yes,710,Urban,2,Single,,1,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+28,Male,40000,5000,2000,1000,2,No,680,Rural,2,Single,,0,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Entrepreneur
+32,Female,55000,8000,4000,1500,3,Yes,710,Urban,2,Single,,1,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+47,Male,88000,18000,12500,3500,4,Yes,770,Suburban,4,Married,House,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+40,Female,70000,15000,10000,3200,3,Yes,735,Suburban,4,Married,House,2,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+45,Female,80000,15000,10000,3000,4,Yes,750,Suburban,4,Married,Apartment,2,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+40,Female,70000,15000,10000,3200,3,Yes,735,Suburban,4,Married,House,2,Self Employed
+55,Male,100000,25000,15000,5000,4,Yes,780,Suburban,4,Married,House,2,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+27,Female,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+46,Male,85000,17000,11500,3200,4,Yes,765,Suburban,4,Married,House,2,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+35,Male,60000,10000,5000,2000,3,Yes,720,Urban,3,Married,House,1,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,House,0,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+28,Male,40000,5000,2000,1000,2,No,680,Rural,2,Single,,0,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+27,Female,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+28,Male,40000,5000,2000,1000,2,No,680,Rural,2,Single,,0,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+28,Male,40000,5000,2000,1000,2,No,680,Rural,2,Single,,0,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+29,Female,42000,5500,2500,1200,2,No,690,Rural,2,Single,,0,Self Employed
+46,Male,85000,17000,11500,3200,4,Yes,765,Suburban,4,Married,House,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+46,Male,85000,17000,11500,3200,4,Yes,765,Suburban,4,Married,House,2,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+34,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,Apartment,1,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+36,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,Apartment,1,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Employee
+26,Male,40000,5000,2000,1000,2,No,670,Rural,2,Single,,0,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+28,Male,40000,5000,2000,1000,2,No,680,Rural,2,Single,,0,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+45,Female,80000,2700,10000,3000,4,Yes,750,Suburban,4,Married,Apartment,2,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+32,Female,55000,8000,4000,1500,3,Yes,710,Urban,2,Single,,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+28,Male,40000,5000,2000,1000,2,No,680,Rural,2,Single,,0,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,Apartment,1,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+26,Male,40000,5000,2000,1000,2,No,670,Rural,2,Single,,0,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,Apartment,1,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+41,Male,75000,13000,9000,2800,3,Yes,730,Suburban,3,Married,House,1,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+30,Male,45000,6000,3000,1400,2,No,680,Rural,2,Single,,0,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+39,Male,68000,14000,9500,3000,3,Yes,735,Urban,4,Married,House,1,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+42,Female,78000,14000,9500,3000,3,Yes,740,Suburban,3,Married,House,1,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+35,Male,60000,2100,5000,2000,3,Yes,720,Urban,3,Married,House,1,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+50,Male,90000,20000,12000,4000,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+41,Male,75000,13000,9000,2800,3,Yes,730,Suburban,3,Married,House,1,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+38,Female,70000,12000,8000,2500,3,Yes,740,Urban,3,Married,House,1,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+26,Male,40000,5000,2000,1000,2,No,670,Rural,2,Single,,0,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+26,Male,40000,5000,2000,1000,2,No,670,Rural,2,Single,,0,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+40,Female,70000,15000,10000,3200,3,Yes,735,Suburban,4,Married,House,2,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+38,Female,70000,12000,8000,2500,3,Yes,740,Urban,3,Married,House,1,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+26,Male,40000,5000,2000,1000,2,No,670,Rural,2,Single,,0,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+26,Male,40000,5000,2000,1000,2,No,670,Rural,2,Single,,0,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+27,Female,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,House,0,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+28,Male,40000,5000,2000,1000,2,No,680,Rural,2,Single,,0,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+32,Female,55000,8000,4000,1500,3,Yes,710,Urban,2,Single,,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+37,Male,66000,13000,8500,2600,3,Yes,725,Urban,4,Married,Apartment,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+46,Male,85000,17000,11500,3200,4,Yes,765,Suburban,4,Married,House,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+45,Female,80000,15000,10000,3000,4,Yes,750,Suburban,4,Married,Apartment,2,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+27,Female,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+41,Male,75000,13000,9000,2800,3,Yes,730,Suburban,3,Married,House,1,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+42,Female,78000,14000,9500,3000,3,Yes,740,Suburban,3,Married,House,1,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+26,Male,40000,5000,2000,1000,2,No,670,Rural,2,Single,,0,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+32,Female,55000,8000,4000,1500,3,Yes,710,Urban,2,Single,,1,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+46,Male,85000,17000,11500,3200,4,Yes,765,Suburban,4,Married,House,2,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+30,Male,45000,6000,3000,1400,2,No,680,Rural,2,Single,,0,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+27,Female,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+27,Female,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+32,Female,55000,8000,4000,1500,3,Yes,710,Urban,2,Single,,1,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+39,Male,68000,14000,9500,3000,3,Yes,735,Urban,4,Married,House,1,Employee
+29,Female,42000,5500,2500,1200,2,No,690,Rural,2,Single,,0,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+29,Female,42000,5500,2500,1200,2,No,690,Rural,2,Single,,0,Self Employed
+27,Female,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+39,Male,68000,14000,9500,3000,3,Yes,735,Urban,4,Married,House,1,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+33,Female,60000,10000,5000,2000,3,Yes,720,Urban,3,Married,Condo,1,Self Employed
+46,Male,85000,17000,11500,3200,4,Yes,765,Suburban,4,Married,House,2,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+34,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,Apartment,1,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+28,Male,40000,5000,2000,1000,2,No,680,Rural,2,Single,,0,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+42,Female,78000,14000,9500,3000,3,Yes,740,Suburban,3,Married,House,1,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+47,Male,88000,18000,12500,3500,4,Yes,770,Suburban,4,Married,House,2,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+43,Male,82000,16000,11000,3500,4,Yes,755,Suburban,4,Married,Condo,2,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,Apartment,1,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+55,Male,100000,25000,15000,5000,4,Yes,780,Suburban,4,Married,House,2,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+26,Male,40000,5000,2000,1000,2,No,670,Rural,2,Single,,0,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+33,Female,60000,10000,5000,2000,3,Yes,720,Urban,3,Married,Condo,1,Self Employed
+34,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,Apartment,1,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+42,Female,78000,14000,9500,3000,3,Yes,740,Suburban,3,Married,House,1,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+41,Male,75000,13000,9000,2800,3,Yes,730,Suburban,3,Married,House,1,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+42,Female,78000,14000,9500,3000,3,Yes,740,Suburban,3,Married,House,1,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+29,Female,42000,5500,2500,1200,2,No,690,Rural,2,Single,,0,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+39,Male,68000,14000,9500,3000,3,Yes,735,Urban,4,Married,House,1,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+46,Male,85000,17000,11500,3200,4,Yes,765,Suburban,4,Married,House,2,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Employee
+45,Female,80000,15000,10000,3000,4,Yes,750,Suburban,4,Married,Apartment,2,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+47,Male,88000,18000,12500,3500,4,Yes,770,Suburban,4,Married,House,2,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+39,Male,68000,14000,9500,3000,3,Yes,735,Urban,4,Married,House,1,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+28,Male,40000,5000,2000,1000,2,No,680,Rural,2,Single,,0,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,Apartment,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+26,Male,40000,5000,2000,1000,2,No,670,Rural,2,Single,,0,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+47,Male,88000,18000,12500,3500,4,Yes,770,Suburban,4,Married,House,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+34,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,Apartment,1,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+29,Female,42000,5500,2500,1200,2,No,690,Rural,2,Single,,0,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+37,Male,66000,13000,8500,2600,3,Yes,725,Urban,4,Married,Apartment,1,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+43,Male,82000,16000,11000,3500,4,Yes,755,Suburban,4,Married,Condo,2,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+42,Female,78000,14000,9500,3000,3,Yes,740,Suburban,3,Married,House,1,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+35,Male,60000,10000,5000,2000,3,Yes,720,Urban,3,Married,House,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+55,Male,100000,25000,15000,5000,4,Yes,780,Suburban,4,Married,House,2,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+46,Male,85000,17000,11500,3200,4,Yes,765,Suburban,4,Married,House,2,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Entrepreneur
+29,Female,42000,5500,2500,1200,2,No,690,Rural,2,Single,,0,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+42,Female,78000,14000,9500,3000,3,Yes,740,Suburban,3,Married,House,1,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+43,Male,82000,16000,11000,3500,4,Yes,755,Suburban,4,Married,Condo,2,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+36,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,Apartment,1,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,Apartment,1,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+35,Male,60000,2100,5000,2000,3,Yes,720,Urban,3,Married,House,1,Entrepreneur
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+33,Female,60000,10000,5000,2000,3,Yes,720,Urban,3,Married,Condo,1,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+32,Female,55000,8000,4000,1500,3,Yes,710,Urban,2,Single,,1,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+47,Male,88000,18000,12500,3500,4,Yes,770,Suburban,4,Married,Condo,2,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,Apartment,1,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Entrepreneur
+50,Male,90000,20000,12000,4000,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Entrepreneur
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+26,Male,40000,5000,2000,1000,2,No,670,Rural,2,Single,,0,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+39,Male,68000,14000,9500,3000,3,Yes,735,Urban,4,Married,House,1,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+30,Male,45000,6000,3000,1400,2,No,680,Rural,2,Single,,0,Employee
+34,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,Apartment,1,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+47,Male,88000,18000,12500,3500,4,Yes,770,Suburban,4,Married,House,2,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Entrepreneur
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+55,Male,100000,25000,15000,5000,4,Yes,780,Suburban,4,Married,House,2,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+41,Male,75000,13000,9000,2800,3,Yes,730,Suburban,3,Married,House,1,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+48,Female,90000,19000,13000,3700,4,Yes,775,Suburban,4,Married,House,2,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Employee
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+26,Male,40000,5000,2000,1000,2,No,670,Rural,2,Single,,0,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Entrepreneur
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Self Employed
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Entrepreneur
+36,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,Apartment,1,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+49,Female,92000,20000,14000,4000,4,Yes,780,Suburban,4,Married,Condo,2,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Employee
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+47,Male,88000,18000,12500,3500,4,Yes,770,Suburban,4,Married,House,2,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Entrepreneur
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Employee
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+30,Male,47000,6500,3500,1600,2,No,680,Rural,2,Single,,0,Self Employed
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+36,Male,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Employee
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+38,Male,68000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Self Employed
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Self Employed
+29,Female,42000,5500,2500,1200,2,No,690,Rural,2,Single,,0,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Entrepreneur
+39,Female,67000,14000,9500,3000,3,Yes,730,Urban,4,Married,House,1,Self Employed
+43,Male,82000,16000,11000,3500,4,Yes,755,Suburban,4,Married,Condo,2,Employee
+40,Male,72000,16000,11000,3300,3,Yes,735,Suburban,4,Married,Apartment,2,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+35,Male,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+30,Male,45000,6000,3000,1400,2,No,680,Rural,2,Single,,0,Self Employed
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Entrepreneur
+50,Male,90000,20000,12000,4000,4,Yes,760,Suburban,4,Married,Condo,2,Entrepreneur
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+53,Female,98000,24000,17500,5000,4,Yes,800,Suburban,4,Married,Condo,2,Self Employed
+43,Female,80000,16000,11000,3300,4,Yes,760,Suburban,4,Married,Condo,2,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Entrepreneur
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Employee
+29,Female,44000,6000,3000,1400,2,No,675,Rural,2,Single,,0,Self Employed
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+33,Female,62000,11000,6000,2200,3,Yes,725,Urban,3,Married,House,1,Self Employed
+51,Male,95000,23000,17000,4800,4,Yes,795,Suburban,4,Married,Condo,2,Employee
+45,Male,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Employee
+31,Female,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Employee
+35,Male,60000,2100,5000,2000,3,Yes,720,Urban,3,Married,House,1,Entrepreneur
+44,Female,83000,17000,11500,3400,4,Yes,760,Suburban,4,Married,House,2,Self Employed
+47,Male,89000,18000,12500,3500,4,Yes,775,Suburban,4,Married,Condo,2,Self Employed
+27,Female,42000,5500,2500,1200,2,No,685,Rural,2,Single,,0,Employee
+52,Male,97000,22000,16000,4500,4,Yes,790,Suburban,4,Married,Condo,2,Self Employed
+26,Male,38000,4500,1800,900,2,No,670,Rural,2,Single,,0,Self Employed
+32,Male,58000,9000,4500,1800,3,Yes,715,Urban,3,Single,,1,Entrepreneur
+34,Female,64000,12000,6500,2400,3,Yes,730,Urban,3,Married,House,1,Self Employed
